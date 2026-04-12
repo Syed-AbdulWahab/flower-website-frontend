@@ -79,7 +79,7 @@ header .fa-bars {
 /* Home */
 .home {
     display: flex; align-items: center; min-height: 100vh;
-    background: url('Main\ -\ Picture.jpg') no-repeat;
+    background: url('Assets/Main\ -\ Picture.jpg') no-repeat;
     background-size: cover; background-position: center;
 }
 
